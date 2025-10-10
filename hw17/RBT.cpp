@@ -1,10 +1,3 @@
-/*
-INSTRUCTIONS
-In this assignment, it is required that you fill out areas under comments labeled as "TODO" appropriately based on the accompanying directions. 
-You are also required to follow any directions accompanying comments such as "NOTE".
-You can add/modify code anywhere, with the exception of the provided "main" (which we will use for testing).
-You can use the constants RED and BLACK, instead of the ints 0 and 1, when appropriate.
-*/
 
 #include <iostream>
 #include <math.h> // for asserting height
